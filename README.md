@@ -1,4 +1,4 @@
-# NIP-50 · Search Capability on LiberNet
+# NIP-50 (Search) on LiberNet
 
 > Search Capability, as used by the **LiberNet** apps.
 
